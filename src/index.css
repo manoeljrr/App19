@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+.email::-webkit-input-placeholder{
+  color:#fff;
+  font-size: 1.2em;
+  text-transform: uppercase;
+  font-style: bold;
+}
+sup{
+  vertical-align: super;
+    font-size:small;
+}
